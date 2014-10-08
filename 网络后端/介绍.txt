@@ -1,0 +1,4 @@
+antiinject.php		防止SQL注入
+buy.php			购买，扣除相应积分 需要user（用户名） num（扣除数）
+count.php		得到当前积分 需要user
+login.php		登陆验证 需要user password
